@@ -1,0 +1,33 @@
+body{
+    padding: 0px 100px;
+}
+
+h1{
+    text-align: center;
+    background-color: #0067b0;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 2px;
+}
+
+#textbox{
+    width: 99.4%;
+    font-size: 15px;
+    border-color: #0067b0;
+    box-shadow: 5px 2px 6px #0067b0, -5px 2px 6px #0067b0;
+    border-radius: 2px;
+    background-color: aliceblue;
+}
+
+p{
+    text-align: center;
+    background-color: #0067b0;
+    border-radius: 2px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0px;
+
+}
